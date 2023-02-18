@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "mpi.h"
 
+//EJERCICIO 2
 int main(int argc, char** argv) {
     int num_procs, proc_id;
     long RECTAS = 20000000;
