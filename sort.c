@@ -3,7 +3,7 @@
 #include <mpi.h>
 
 #define ARRAY_SIZE 20000
-
+//EJERCICIO 3
 void generate_random_numbers(int* arr, int size);
 void merge_sort(int* arr, int start, int end);
 void merge(int* arr, int start, int mid, int end);
