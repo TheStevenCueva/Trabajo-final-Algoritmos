@@ -1,4 +1,5 @@
 # Trabajo-final-Algoritmos
+Se adjunta en el repositorio los diagramas y el video de ejecucion
 
 EJERCICIO 2 Usar la comunicación BCast
 
